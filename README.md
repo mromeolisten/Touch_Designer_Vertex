@@ -1,2 +1,3 @@
 # Touch_Designer_Vertex
-Sharing vertex shader conversion tool for Touch Designer 
+
+Conversion of https://www.vertexshaderart.com/ vertex shaders in Touch Designer 
